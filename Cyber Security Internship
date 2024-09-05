@@ -1,0 +1,40 @@
+MY INTERNSHIP DIARIES ! <br>
+The topics covered on Day 1 <br>
+1. WHAT IS CYBER SECURITY ? <br>
+Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. These cyber attacks are usually aimed at accessing, changing, or destroying sensitive
+information. <br>
+2. HOW IT WORKS IN COMPANY OR ORGANIZATION ? <br>
+Security technologies: Firewalls, antivirus software, malware detection programs, and DNS filtering are used to detect and prevent unauthorized access to systems. Security information
+and event management (SIEM) tools: These tools detect threats in real time. <br>
+ Penetration testing: This identifies vulnerabilities in systems. <br>
+ Security policies and training: These install best practices and awareness. <br> 
+ Incident response plans: These guide how to react to breaches. <br>
+ Network traffic and system logs: These are monitored continuously to identify threats. <br> 
+ Patch management: This keeps systems up to date and closes vulnerabilities. <br>
+ Unified threat management systems: These tools can detect, isolate, and remediate threats, and notify users if additional action is needed. <br> 
+ Disaster recovery plan: This ensures that the organization can quickly recover in the event of a cyberattack. <br>
+3. TYPES OF CYBERSECURITY THREATS : <br>
+1. PHISHING : A type of cyberattack where attackers disguise themselves as trustworthy entities in order to trick individuals into providing sensitive information such as passwords and 
+credit card details. <br>
+2. RANSOMWARE : A type of malicious software designed to block access to a computer system until a sum of money is paid. <br>
+3. MALWARE : It is a general term for malicious software or code that can damage or disrupt a device's normal use. <br>
+4. SOCIAL ENGINEERING : It is a psychological attack that aims to manipulate people into giving away sensitive information or performing unsafe actions. <br>
+5. MAN-IN-THE-MIDDLE ATTACK : It a cyberattack where a hacker positions themselves between two parties, typically a user and an application, to intercept their communications and steal 
+sensitive information. <br>
+6. ZERO-DAY ATTACK : It is a cyberattack that exploits a previously unknown vulnerability in software or hardware to compromise systems or steal data.<br>
+4. VAPT :<br>
+Vulnerability Assessment & Penetration Testing (VAPT) is a security testing method that helps organizations identify and address cyber security vulnerabilities. <br>
+5. USB RUBBER DUCKY : <br>
+A USB Rubber Ducky is a device that looks like an ordinary USB flash drive, but is actually a small computer that can very quickly execute a pre-programmed series of commands
+on a computer. This seemingly harmless device can do all sorts of nasty things, from stealing sensitive info to installing malicious software. <br>
+6. WHAT IS HACKING ? <br>
+Hacking is the process of identifying and exploiting weakness in a system or a network to gain unauthorized access to data and system resources. <br>
+7. WHAT IS AN ETHICAL HACKING ? <br>
+An ethical hacker is a skilled professional who knows how to identify and exploit vulnerabilities. He works with the permission of the owners of systems. <br>
+8. RED TEAM : <br> Red teaming is a cyber security technique that simulates a cyber attack on an organization's systems to test how it would respond. The goal of red teaming is to improve
+an organization's cyber security by identifying vulnerabilities and assessing how well its defenses would hold up against a real-world attack. <br>
+9. BLUE TEAM : <br> A blue team is the group responsible for defending an enterprise's use of information systems by maintaining its security posture against a group of mock attackers.<br>
+10. PURPLE TEAM :<br> Purple teaming is a security methodology in which offensive security professionals (referred to as red teams) and Cyber Security Operations Centre (CSOC) professionals
+(referred to as blue teams) work closely together in order to enhance cyber capabilities through continuous feedback and knowledge transfer.
+
+
