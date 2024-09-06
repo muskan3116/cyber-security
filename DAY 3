@@ -1,0 +1,59 @@
+1.WHAT IS VIRTUALIZATION ?
+Virtualization is a process that creates a simulated computing environment that uses a computer's hardware resources in a more efficient way.
+It allows you to run multiple operating systems and applications on a single computer, instead of using separate servers.
+2.VIRTUAL BOX : 
+Oracle VM VirtualBox is cross-platform virtualization software. It allows users to extend their existing computer to run multiple
+operating systems including Microsoft Windows, Mac OS X, Linux, and Oracle Solaris, at the same time.
+3.HOW TO RUN VIRTUAL BOX IN WINDOWS :
+Here's how to run VirtualBox on Windows:
+Download the VirtualBox installer from the official website
+Run the installer and select the installation directory and components
+Tick the checkboxes for shortcut options and file associations
+Confirm installation of VirtualBox network interfaces
+Click Install to start the installation process
+Here are some things to keep in mind when using VirtualBox:
+*If you run multiple virtual machines at the same time, they will all consume some of the host machine's CPU, RAM, and disk space.
+*It requires 100 gb ssd, 8 gb ram, 8 core processor
+4. SSH :
+SSH, or Secure Shell, is a network protocol that allows secure communication between computers, and is often used to access remote
+Linux servers.
+5. RDP REMOTE DESKTOP PROTOCOL :
+Remote Desktop Protocol (RDP) is a network protocol that lets users remotely control and operate computers. It was developed by
+Microsoft and is available for most Windows and Mac operating systems. 
+ Here's some more information about RDP: 
+ How it works
+RDP creates an encrypted connection between two machines, allowing users to transmit keyboard and mouse activity and other information
+from one computer to another. The remote computer's desktop appears on the device the user is using to connect to it. 
+6. DIFFERENT TYPES OF WINDOWS :
+Windows 10 Home. The basic Windows 10 version.
+Windows 10 Pro. ...
+Windows 10 in S mode. ...
+Windows 10 Enterprise (E3 and E5) ...
+Windows 10 Enterprise 2015 LTSB. ...
+Windows 10 Education. ...
+Window 10 Mobile and Mobile Enterprise. ...
+Windows 10 IoT Core.
+7. Microsoft Active Directory (AD)
+A directory service that allows administrators to manage permissions and access to network resources. AD is included as a set of 
+processes and services in Windows Server operating systems. It uses Lightweight Directory Access Protocol (LDAP), Microsoft's version 
+of Kerberos, and DNS. AD stores information about network objects, such as user accounts, shared resources, and network user and computer 
+accounts.
+8. STATIC AND DYNAMIC IP ADRESSES :
+The main difference between static and dynamic IP addresses is that static IP addresses are permanent and unchanging, while dynamic IP
+addresses change regularly.
+9. NGROK :
+Ngrok is a cross-platform application that allows developers to expose their local web servers to the internet. It hosts a local web server
+on its own sub-domain and makes your local development box available on the internet through Tunnelling.
+10. WHAT IS GLASSWIRE :
+GlassWire is a network monitoring and firewall software that helps protect your device, data, privacy, and network.
+ It offers a variety of features, including: 
+ Data usage monitoring: Keep track of your data usage on your PC or mobile phone 
+ Network time machine: See what your PC was doing while you were away
+11. HOW TO INSTALL ANY SOFTWARE IN KALI LINUX ?
+Open the terminal and type in the command sudo apt-get install followed by the name of the software you want to install.
+12. WHAT IS SUDO ?
+Sudo is a command in Linux that allows a user to run commands with elevated privileges, or "super user do."
+Sudo is a more secure alternative to logging in as the root user, as it provides granular access control and accountability.
+13. WHAT IS PORTFORWARDING ?
+Port forwarding is a networking technique that allows external devices to access services on a private network. It works by redirecting 
+communication requests from one address and port to another as they pass through a network gateway, like a firewall or router.
