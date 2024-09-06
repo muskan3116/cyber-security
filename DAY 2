@@ -1,0 +1,42 @@
+1. PHASES OF HACKING (HACKING CYCLE):
+1. Reconnaisance : It is the process of gathering information about a target system to identify vulnerabilities and potential entry points. It's the first step in a cyber attack, and
+it's often used by threat actors to plan how to exploit a system. 
+2. Scanning : An automated process that looks for security issues in a web application. It's similar to a health screening, and can help identify vulnerabilities before they
+become a threat.
+3. Gaining access : Gaining access is a crucial step in cyber attacks, where a hacker or other malicious actor tries to enter a network or computer system without authorization.
+4. Maintaining access : Hacker may just hack the system to show it was vulnerable or he can be so mischievous that he wants to maintain or persist the connection in the background 
+without the knowledge of the user.
+5. Clearing tracks : is the final stage of a successful hack attack, where the attacker removes evidence of their actions to avoid being caught. This involves removing or 
+manipulating breadcrumbs, such as: IP addresses, Logs, Personal information, Leftover files or viruses.
+2. DIRECTORY : 
+A directory in Linux is a folder that organizes files and provides a hierarchical structure to the file system. In Linux, directories are similar to folders in Windows or Mac OS.
+3. WHY EXTENSIONS ARE IMPORTANT FOR A FILE TO OPEN ?
+File extensions are important because they tell your computer which program is capable of opening a specific file, essentially acting as a label that identifies the file format 
+and allows the correct application to be launched when you try to open it; without an extension, the operating system wouldn't know how to interpret the data within the file and 
+wouldn't be able to display it properly.
+4. WHAT IS GITHUB ?
+GitHub is a developer platform that allows developers to create, store, manage and share their code. It uses Git software, providing the distributed version control of Git plus access control,
+bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
+5. INTRODUCTION TO LINUX COMMANDS : 
+Linux commands are used to interact with Linux operating systems and servers. They can be used to access system resources, automate tasks, and perform complex operations. Here are some
+common Linux commands: 
+ Pwd
+Prints the path of the current working directory. 
+ Mkdir
+Creates new directories. 
+ Cp
+Copies files or groups of files and directories. 
+ Rm
+Deletes files and folders within a directory.
+6. WHAT IS RASPBERRY PIE ? HOW IT CAN BE USED IN CYBER SECURITY ?
+The Raspberry Pi is a small, low-cost computer that's used for a variety of purposes. 
+Raspberry Pi can be used for a variety of cybersecurity projects, such as building a Kali Linux hacking lab, a honeypot, or a VPN. These projects can help you learn about computer networking,
+programming languages, and operating systems, and can help you stand out to hiring managers.
+7. UBUNTU : 
+Ubuntu is a Linux distribution derived from Debian and composed mostly of free and open-source software. Ubuntu is officially released in multiple editions: Desktop, Server, and Core for
+Internet of things devices and robots.
+8. INTRO TO DISCORD :
+Discord is a popular online communication platform that allows users to interact through text, voice, and video calls, often used by gamers and communities to connect; in cybersecurity,
+Discord can be a tool for threat intelligence gathering by monitoring public servers for malicious activity, but it also presents risks as cybercriminals frequently use it to distribute
+malware, phishing links, and engage in scams, requiring careful consideration when accessing Discord for security purposes. 
+
